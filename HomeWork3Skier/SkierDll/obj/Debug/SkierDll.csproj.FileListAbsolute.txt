@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\HomeWork3Skier\SkierDll\bin\Debug\SkierDll.dll
+C:\Users\User\source\repos\HomeWork3Skier\SkierDll\bin\Debug\SkierDll.pdb
+C:\Users\User\source\repos\HomeWork3Skier\SkierDll\obj\Debug\SkierDll.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeWork3Skier\SkierDll\obj\Debug\SkierDll.dll
+C:\Users\User\source\repos\HomeWork3Skier\SkierDll\obj\Debug\SkierDll.pdb

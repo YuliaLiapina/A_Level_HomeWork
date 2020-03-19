@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\HomeWork_1_21.02\HomeWork_1_21.02\bin\Debug\HomeWork_1_21.02.exe.config
+C:\Users\User\source\repos\HomeWork_1_21.02\HomeWork_1_21.02\bin\Debug\HomeWork_1_21.02.exe
+C:\Users\User\source\repos\HomeWork_1_21.02\HomeWork_1_21.02\bin\Debug\HomeWork_1_21.02.pdb
+C:\Users\User\source\repos\HomeWork_1_21.02\HomeWork_1_21.02\obj\Debug\HomeWork_1_21.02.exe
+C:\Users\User\source\repos\HomeWork_1_21.02\HomeWork_1_21.02\obj\Debug\HomeWork_1_21.02.pdb
+C:\Users\User\source\repos\HomeWork_1_21.02\HomeWork_1_21.02\obj\Debug\HomeWork_1_21.02.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\HomeWork6\Figure\bin\Debug\Figure.dll
+C:\Users\User\source\repos\HomeWork6\Figure\bin\Debug\Figure.pdb
+C:\Users\User\source\repos\HomeWork6\Figure\obj\Debug\FigureLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeWork6\Figure\obj\Debug\Figure.dll
+C:\Users\User\source\repos\HomeWork6\Figure\obj\Debug\Figure.pdb
+C:\Users\User\Desktop\Домашки рар\HomeWork6\Figure\bin\Debug\Figure.dll
+C:\Users\User\Desktop\Домашки рар\HomeWork6\Figure\bin\Debug\Figure.pdb
+C:\Users\User\Desktop\Домашки рар\HomeWork6\Figure\obj\Debug\FigureLibrary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Домашки рар\HomeWork6\Figure\obj\Debug\Figure.dll
+C:\Users\User\Desktop\Домашки рар\HomeWork6\Figure\obj\Debug\Figure.pdb

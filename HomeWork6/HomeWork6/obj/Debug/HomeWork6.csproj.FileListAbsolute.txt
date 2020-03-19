@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeWork6\HomeWork6\bin\Debug\HomeWork6.exe.config
+C:\Users\User\source\repos\HomeWork6\HomeWork6\bin\Debug\HomeWork6.exe
+C:\Users\User\source\repos\HomeWork6\HomeWork6\bin\Debug\HomeWork6.pdb
+C:\Users\User\source\repos\HomeWork6\HomeWork6\obj\Debug\HomeWork6.exe
+C:\Users\User\source\repos\HomeWork6\HomeWork6\obj\Debug\HomeWork6.pdb
+C:\Users\User\source\repos\HomeWork6\HomeWork6\bin\Debug\Figure.dll
+C:\Users\User\source\repos\HomeWork6\HomeWork6\bin\Debug\Figure.pdb
+C:\Users\User\source\repos\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csproj.CopyComplete
+C:\Users\User\Desktop\Домашки рар\HomeWork6\HomeWork6\bin\Debug\HomeWork6.exe.config
+C:\Users\User\Desktop\Домашки рар\HomeWork6\HomeWork6\bin\Debug\HomeWork6.exe
+C:\Users\User\Desktop\Домашки рар\HomeWork6\HomeWork6\bin\Debug\HomeWork6.pdb
+C:\Users\User\Desktop\Домашки рар\HomeWork6\HomeWork6\bin\Debug\Figure.dll
+C:\Users\User\Desktop\Домашки рар\HomeWork6\HomeWork6\bin\Debug\Figure.pdb
+C:\Users\User\Desktop\Домашки рар\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Домашки рар\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csproj.CopyComplete
+C:\Users\User\Desktop\Домашки рар\HomeWork6\HomeWork6\obj\Debug\HomeWork6.exe
+C:\Users\User\Desktop\Домашки рар\HomeWork6\HomeWork6\obj\Debug\HomeWork6.pdb

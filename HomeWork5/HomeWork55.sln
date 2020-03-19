@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork55", "HomeWork55\HomeWork55.csproj", "{F41D96F5-28A7-42BF-B7B1-7DAC5FF80BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatricesLibrary", "MatricesLibrary\MatricesLibrary.csproj", "{413CF28A-0A03-4362-808A-526FCEC77088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F41D96F5-28A7-42BF-B7B1-7DAC5FF80BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41D96F5-28A7-42BF-B7B1-7DAC5FF80BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41D96F5-28A7-42BF-B7B1-7DAC5FF80BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41D96F5-28A7-42BF-B7B1-7DAC5FF80BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{413CF28A-0A03-4362-808A-526FCEC77088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413CF28A-0A03-4362-808A-526FCEC77088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413CF28A-0A03-4362-808A-526FCEC77088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413CF28A-0A03-4362-808A-526FCEC77088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4102FF9-BD9D-4CF5-AC67-7B2FDE1D3F69}
+	EndGlobalSection
+EndGlobal

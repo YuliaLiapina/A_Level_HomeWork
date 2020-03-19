@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\HomeWork55\HomeWork55\obj\Debug\HomeWork55.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeWork55\HomeWork55\bin\Debug\HomeWork55.exe.config
+C:\Users\User\source\repos\HomeWork55\HomeWork55\bin\Debug\HomeWork55.exe
+C:\Users\User\source\repos\HomeWork55\HomeWork55\bin\Debug\HomeWork55.pdb
+C:\Users\User\source\repos\HomeWork55\HomeWork55\bin\Debug\MatricesLibrary.dll
+C:\Users\User\source\repos\HomeWork55\HomeWork55\bin\Debug\MatricesLibrary.pdb
+C:\Users\User\source\repos\HomeWork55\HomeWork55\obj\Debug\HomeWork55.csproj.CopyComplete
+C:\Users\User\source\repos\HomeWork55\HomeWork55\obj\Debug\HomeWork55.exe
+C:\Users\User\source\repos\HomeWork55\HomeWork55\obj\Debug\HomeWork55.pdb
+C:\Users\User\Desktop\Домашки рар\HomeWork5\HomeWork55\bin\Debug\HomeWork55.exe.config
+C:\Users\User\Desktop\Домашки рар\HomeWork5\HomeWork55\bin\Debug\HomeWork55.exe
+C:\Users\User\Desktop\Домашки рар\HomeWork5\HomeWork55\bin\Debug\HomeWork55.pdb
+C:\Users\User\Desktop\Домашки рар\HomeWork5\HomeWork55\bin\Debug\MatricesLibrary.dll
+C:\Users\User\Desktop\Домашки рар\HomeWork5\HomeWork55\bin\Debug\MatricesLibrary.pdb
+C:\Users\User\Desktop\Домашки рар\HomeWork5\HomeWork55\obj\Debug\HomeWork55.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Домашки рар\HomeWork5\HomeWork55\obj\Debug\HomeWork55.csproj.CopyComplete
+C:\Users\User\Desktop\Домашки рар\HomeWork5\HomeWork55\obj\Debug\HomeWork55.exe
+C:\Users\User\Desktop\Домашки рар\HomeWork5\HomeWork55\obj\Debug\HomeWork55.pdb

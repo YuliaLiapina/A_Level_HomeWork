@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\HomeWork55\MatricesLibrary\obj\Debug\MatricesLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeWork55\MatricesLibrary\bin\Debug\MatricesLibrary.dll
+C:\Users\User\source\repos\HomeWork55\MatricesLibrary\bin\Debug\MatricesLibrary.pdb
+C:\Users\User\source\repos\HomeWork55\MatricesLibrary\obj\Debug\MatricesLibrary.dll
+C:\Users\User\source\repos\HomeWork55\MatricesLibrary\obj\Debug\MatricesLibrary.pdb
+C:\Users\User\Desktop\Домашки рар\HomeWork5\MatricesLibrary\bin\Debug\MatricesLibrary.dll
+C:\Users\User\Desktop\Домашки рар\HomeWork5\MatricesLibrary\bin\Debug\MatricesLibrary.pdb
+C:\Users\User\Desktop\Домашки рар\HomeWork5\MatricesLibrary\obj\Debug\MatricesLibrary.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Домашки рар\HomeWork5\MatricesLibrary\obj\Debug\MatricesLibrary.dll
+C:\Users\User\Desktop\Домашки рар\HomeWork5\MatricesLibrary\obj\Debug\MatricesLibrary.pdb

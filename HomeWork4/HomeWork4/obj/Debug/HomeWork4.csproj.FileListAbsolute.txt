@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe.config
+C:\Users\User\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\User\source\repos\HomeWork4\HomeWork4\bin\Debug\HomeWork4.pdb
+C:\Users\User\source\repos\HomeWork4\HomeWork4\bin\Debug\SocksLibrary.dll
+C:\Users\User\source\repos\HomeWork4\HomeWork4\bin\Debug\SocksLibrary.pdb
+C:\Users\User\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.CopyComplete
+C:\Users\User\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.exe
+C:\Users\User\source\repos\HomeWork4\HomeWork4\obj\Debug\HomeWork4.pdb

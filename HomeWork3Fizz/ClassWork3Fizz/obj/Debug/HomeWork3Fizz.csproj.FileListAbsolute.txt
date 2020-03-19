@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ClassWork3Fizz\ClassWork3Fizz\bin\Debug\ClassWork3Fizz.exe.config
+C:\Users\User\source\repos\ClassWork3Fizz\ClassWork3Fizz\bin\Debug\ClassWork3Fizz.exe
+C:\Users\User\source\repos\ClassWork3Fizz\ClassWork3Fizz\bin\Debug\ClassWork3Fizz.pdb
+C:\Users\User\source\repos\ClassWork3Fizz\ClassWork3Fizz\bin\Debug\FizzBuzzDll.dll
+C:\Users\User\source\repos\ClassWork3Fizz\ClassWork3Fizz\bin\Debug\FizzBuzzDll.pdb
+C:\Users\User\source\repos\ClassWork3Fizz\ClassWork3Fizz\obj\Debug\HomeWork3Fizz.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClassWork3Fizz\ClassWork3Fizz\obj\Debug\HomeWork3Fizz.csproj.CopyComplete
+C:\Users\User\source\repos\ClassWork3Fizz\ClassWork3Fizz\obj\Debug\ClassWork3Fizz.exe
+C:\Users\User\source\repos\ClassWork3Fizz\ClassWork3Fizz\obj\Debug\ClassWork3Fizz.pdb
